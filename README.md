@@ -1,6 +1,10 @@
 # Door_Dash_Delivery_Analysis
 ## About This Project
 
+Generated an interactive Dashboard focusing on the Total sales amount , Quantity , rating , orders Count of all the restaurants and yearly tends of sales by amount 
+
+Done Complete data cleaning and data transformation in Power-BI
+
 
 ## Project Overview & Scope
 
