@@ -16,7 +16,7 @@ Done Complete data cleaning and data transformation in Power-BI
 ## Data Cleaning
 
 
-## Insights from Power-BI
+
 
 
 
