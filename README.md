@@ -1,10 +1,7 @@
 # Door_Dash_Delivery_Analysis
 ## About This Project
 
-Generated an interactive Dashboard focusing on the Total sales amount , Quantity , rating , orders Count of all the restaurants and yearly tends of sales by amount 
-
-Done Complete data cleaning and data transformation in Power-BI
-
+The DoorDash Delivery Analysis project aims to provide comprehensive insights into delivery operations, customer behavior, and business performance using Power BI. By leveraging data visualization and business intelligence tools, this project will help identify key trends, performance metrics, and areas for improvement within DoorDash's delivery ecosystem.
 
 ## Project Overview & Scope
 
@@ -12,6 +9,17 @@ Done Complete data cleaning and data transformation in Power-BI
 
 
 ![image alt](https://github.com/girishvalluri192/Door_Dash_Delivery_Analysis/blob/main/User_Performance.png)
+
+## Tools & Technologies:
+
+Microsoft Power BI for data visualization and dashboard creation
+
+Data transformation using Power Query
+
+DAX (Data Analysis Expressions) for advanced calculations
+
+
+
 
 ## Data Cleaning
 
@@ -21,3 +29,5 @@ Done Complete data cleaning and data transformation in Power-BI
 
 
 ## Conclusion
+This Power BI project will empower DoorDash stakeholders with real-time, interactive dashboards and reports, facilitating informed decisions to improve operational efficiency, customer experience, and overall business performance.
+
