@@ -5,6 +5,11 @@ The DoorDash Delivery Analysis project aims to provide comprehensive insights in
 
 ## Project Overview & Scope
 
+#### Insights Drawn From Home Page
+1. Created filters on Amount & Quantity to make dashboard interactive
+2. Created Buttons for inividual Pages for Home Page , User's Insights Page, Refresh page to make dash board more informative
+3. 
+
 ![image alt](https://github.com/girishvalluri192/Door_Dash_Delivery_Analysis/blob/main/Home_Page.png)
 
 
