@@ -5,10 +5,20 @@ The DoorDash Delivery Analysis project aims to provide comprehensive insights in
 
 ## Project Overview & Scope
 
+### Visuals Used for visualization
+1. KPI-Cards
+2. Buttons
+3. Shapes
+4. Bar Graphs
+5. Line Graph
+6. Dynamic  Ttles for Visuals
+7. Dynamic heading for the dashboard
+
+
 #### Insights Drawn From Home Page
 1. Created filters on Amount & Quantity to make dashboard interactive
 2. Created Buttons for inividual Pages for Home Page , User's Insights Page, Refresh page to make dash board more informative
-3. 
+3. Total Amount for orders is 987M
 
 ![image alt](https://github.com/girishvalluri192/Door_Dash_Delivery_Analysis/blob/main/Home_Page.png)
 
